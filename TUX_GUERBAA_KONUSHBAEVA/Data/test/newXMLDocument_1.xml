@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<ns1:profil
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:ns1='http://myGame/tux'
+    xsi:schemaLocation='http://myGame/tux ../xsd/profil.xsd'>
+    <ns1:nom></ns1:nom>
+    <ns1:avatar></ns1:avatar>
+    <ns1:anniversaire></ns1:anniversaire>
+    <ns1:parties>
+        <ns1:partie date="" trouvé="">
+            <ns1:mot niveau=""></ns1:mot>
+        </ns1:partie>
+        <ns1:partie date="" trouvé="">
+            <ns1:mot niveau=""></ns1:mot>
+        </ns1:partie>
+        <ns1:partie date="" trouvé="">
+            <ns1:mot niveau=""></ns1:mot>
+        </ns1:partie>
+    </ns1:parties>
+
+</ns1:profil>
